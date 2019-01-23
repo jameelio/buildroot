@@ -84,6 +84,7 @@ config BR2_PACKAGE_NETFLIX5_AUDIO_MIXER_NEXUS
 	  Nexus Audio Mixer
 
 endchoice
+endif
 
 endmenu
 endif
